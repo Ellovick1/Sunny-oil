@@ -22,7 +22,7 @@
             </div>
             <div class="goal3">
                 <p><span class="goal4">HEAD OFFICE</span> </p>
-                <p>Whitewood</p>
+                <p>Whitewood </p>
                 <p>SD 57793, USA</p>
                 <p>+1 438 260 4603</p>
 
