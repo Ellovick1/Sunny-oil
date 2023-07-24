@@ -14,20 +14,19 @@
             <div class="goal1">
                 <nuxt-link to="about" class="link"><p><span class="goal4">ABOUT COMPANY</span> </p></nuxt-link>
                 <nuxt-link to="production" class="link"><p>PRODUCTION</p></nuxt-link>
-            
+
             </div>
             <div class="goal2">
                 <nuxt-link to="products" class="link"><p><span class="goal4">PRODUCTS</span> </p></nuxt-link>
-                
+
             </div>
             <div class="goal3">
                 <p><span class="goal4">HEAD OFFICE</span> </p>
-                <p>SVYATOSHYNSKA STREET</p>
-                <p>28 A, VYSHNEVE</p>
+                <p>Hermana Tytova Ave, 67, Donetsk, Donetsk Oblast, 83000</p>
                 <p>KYIV REGION, UKRAINE 08134</p>
-                <p>+380667710083</p>
-                <p>+380667710087</p>
-                <p>+380667710095</p>
+                <p>+380 0 (66) 771 00 83</p>
+                <p>+380  (66) 771 00 83</p>
+                <p>+380632507493</p>
             </div>
         </div>
     </div>
@@ -47,7 +46,7 @@
         color: white;
     }
     .footer{
-        
+
         background-color: #ffbe3c;
     }
     .foot1{
@@ -129,5 +128,5 @@
 
     }
 
-    
+
 </style>
